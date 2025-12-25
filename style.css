@@ -146,6 +146,8 @@ body {
   border-radius: 4px;
   box-shadow: 0 4px 10px rgba(0,0,0,.25);
   position: absolute;
+  background-size: cover;
+  background-position: center;
 }
 
 /* kanan atas */
@@ -175,3 +177,4 @@ body {
     width: 260px;
   }
     }
+
