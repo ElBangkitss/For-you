@@ -152,15 +152,15 @@
   
   /* kanan atas */
   .polaroid.top-right {
-    top: -40px;
-    left: -100px;
+    top: -50px;
+    right: -100px;
     transform: rotate(6deg);
   }
   
   /* kiri bawah */
   .polaroid.bottom-left {
-    bottom: -40px;
-    right: -100px;
+    bottom: -50px;
+    left: -100px;
     transform: rotate(-8deg);
   }
   
@@ -178,4 +178,5 @@
     }
 
   }
+
 
